@@ -34,7 +34,7 @@
       			$(".preloader-right").addClass("slide-right");
       			//	Typerjs function - Edit the sentences below
 				$('.hi .detail')
-					.typeTo("أنا عصام. مصمم ومطور واجهات مواقع الواب من تونس. انا ايضا مصور فوتغرافي هاو, اعشق الطبيعة و الغناء والعاب الفديو.");
+					.typeTo("I'm Issam. Front-end developer from Tunis, Tunisia. I'm also a photographer, i love nature , singing and video games.");
       		});
 		});
 
