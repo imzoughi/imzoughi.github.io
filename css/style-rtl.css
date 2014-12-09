@@ -782,6 +782,7 @@ body {
 
 .masonry-item .overlay h1 {
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	text-transform: uppercase;
 	padding-bottom: 15px;
 	border-bottom: 1px solid white;
@@ -796,6 +797,7 @@ body {
 
 .masonry-item .overlay h4 {
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	line-height: 2em;
 	color: rgba(255,255,255,.9);
 	transition: .3s 0s all ease;
