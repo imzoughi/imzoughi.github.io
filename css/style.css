@@ -174,6 +174,7 @@ body {
 
 #profile .profile-name {
 	font-family: 'Gotham SSm M';
+    font-weight: normal;
 	text-align: center;
 }
 
@@ -196,6 +197,7 @@ body {
 .occupation {
 	text-align: center;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	color: #555;
 }
 
@@ -211,6 +213,7 @@ body {
 	padding: 30px 50px;
 	border-bottom: 1px solid #ddd;
 	font-family: 'Gotham SSm M', Georgia, serif;
+    font-weight: normal;
 	color: #3A4145;
 	font-size: 1.6rem;
 	line-height: 1.5em;
@@ -468,6 +471,7 @@ body {
 	background: #eaeaea;
 	color: #666;
 	font-family: 'Gotham SSm A', serif!important;
+    font-weight: normal;
 	line-height: 1.6em;
 	position: relative;
 }
@@ -543,12 +547,14 @@ body {
 .testi-profile .detail h3 {
 	color: #3A4145;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	margin-bottom: 3px;
 }
 
 .testi-profile .detail h4 {
 	color: #bbb;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 }
 
 .words {
@@ -557,6 +563,7 @@ body {
 	border-radius: 3px;
 	color: white;
 	font-family: 'Gotham SSm M', serif !important;
+    font-weight: normal;
 	line-height: 1.6em;
 	position: relative;
 }
@@ -651,6 +658,7 @@ body {
 .blog-item .date {
 	float: left;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	padding: 8px 10px;
 	border-right: 1px solid #ddd;
 }
@@ -658,6 +666,7 @@ body {
 .blog-item .like {
 	float: right;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	padding: 8px 10px;
 	border-left: 1px solid #ddd;
 }
@@ -709,6 +718,7 @@ body {
 	text-transform: capitalize;
 	font-size: 17px;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	color: #666;
 }
 
@@ -781,6 +791,7 @@ body {
 
 .masonry-item .overlay h1 {
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	text-transform: uppercase;
 	padding-bottom: 15px;
 	border-bottom: 1px solid white;
@@ -795,6 +806,7 @@ body {
 
 .masonry-item .overlay h4 {
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	line-height: 2em;
 	color: rgba(255,255,255,.9);
 	transition: .3s 0s all ease;
@@ -827,6 +839,7 @@ body {
 
 #portfolio-case .detail {
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	font-size: 18px;
 	color: #3A4145;
 	margin-bottom: 30px;
@@ -836,6 +849,7 @@ body {
 #portfolio-case .review {
 	padding: 15px 30px;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	font-size: 22px;
 	margin-bottom: 30px;
 	color: #999;
@@ -860,6 +874,7 @@ body {
 	border: none;
 	color: #666;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 }
 
 .btn:hover {
@@ -893,6 +908,7 @@ body {
 	font-size: 16px;
 	color: #777;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	margin-bottom: 5px;
 }
 
@@ -918,6 +934,7 @@ body {
 	margin-bottom: 15px;
 	transition: .2s border ease;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 }
 
 #contact-form textarea,
@@ -946,6 +963,7 @@ body {
 	border: none;
 	color: #666;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 }
 
 #contact-form input[type="submit"]:hover,
@@ -975,6 +993,7 @@ body {
 	background-position: calc(100% - 15px) 15px;
 	position: relative;
 	font-family: 'Gotham SSm M', serif !important;
+    font-weight: normal;
 	top: 15px;
 	transition: .3s all ease;
 	opacity: 0;
@@ -1035,6 +1054,7 @@ body {
 	border-bottom-left-radius: 3px;
 	transition: .2s all ease;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	float: left;
 	width: calc(100% - 50px);
 }
@@ -1058,6 +1078,7 @@ body {
 	display: block;
 	text-align: center;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	margin-top: 13px;
 	position: relative;
 	transition: .3s all ease;
@@ -1078,6 +1099,7 @@ body {
 	margin-right: 10px;
 	color: #666;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 }
 
 .blog-img,
@@ -1100,12 +1122,14 @@ body {
 .blog-source > div {
 	display: inline-block;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	color: #666;
 }
 
 .blog-content {
 	padding: 30px 0;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	color: #3A4145;
 	font-size: 1.6rem;
 	line-height: 1.5em;
@@ -1120,6 +1144,7 @@ body {
 
 .quotes {
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	font-size: 1.8rem;
 	line-height: 1.5em;
 	color: #777;
@@ -1136,6 +1161,7 @@ body {
 .quoter {
 	color: #666;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	margin-top: 20px;
 	padding-top: 13px;
 	border-top: 1px solid #dcdcdc;
@@ -1154,6 +1180,7 @@ body {
 	display: inline-block;
 	color: #666;
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	font-size: 16px;
 	cursor: pointer;
 	margin-right: 10px;
@@ -1213,6 +1240,7 @@ body {
 
 .reader-name {
 	font-family: 'Gotham SSm M', serif;
+    font-weight: normal;
 	margin-bottom: 15px
 }
 
@@ -1226,6 +1254,7 @@ body {
 
 .comment-interaction > span {
 	font-family: 'Gotham SSm M', Georgia, serif !important;
+    font-weight: normal;
 }
 
 .comment-interaction > span:first-child {
