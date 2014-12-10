@@ -5,12 +5,13 @@
     background: white;
     z-index: 999;
     border: 1px solid #ccc;
-    border-bottom-right-radius: 8px;
-    top:50%;
-    transform: translateX(100%);
+    top:12%;
+    transform: translateX(-100%);
     transition: .2s all ease;
 }
-
+.rtl #switcher {
+    transform: translateX(100%);
+}
 .sliding {
     transform: translateX(0%) !important;
 }
@@ -32,13 +33,23 @@
     border-bottom: 1px solid #eee;
     font-family: 'Montserrat', serif;
 }
+.switcher-title.ar {
+    font-family: 'Gotham SSm B', serif;
+    font-size: 16px;
+}
+.switcher-title a {
+    color: #777;
+}
+.switcher-title .current {
+    color: #0099d5;
+}
 
 #gear {
     position: absolute;
     top: -1px;
     right: -42px;
     font-size: 25px;
-    padding: 10px 10px;
+    padding: 26px 10px 25px;
     background: white;
     border-top: 1px solid #ccc;
     border-right: 1px solid #ccc;
@@ -48,7 +59,18 @@
     color: #777;
     cursor: pointer;
 }
-
+.rtl #gear { 
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 0px none;
+    border-bottom: 1px solid #ccc;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    left: -42px;
+    right: inherit; 
+}
 #gear:hover {
     color: #aaa;
 }
